@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome-ASIR</title>
+  <desc id="desc">Biblioteca educativa de sistemas, desarrollo y ciberseguridad. Cabecera azul oscuro con nodos conectados en turquesa.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#123044"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="20" fill="url(#background)"/>
+  <path d="M1 300V20A19 19 0 0 1 20 1h1240a19 19 0 0 1 19 19v280a19 19 0 0 1-19 19H20A19 19 0 0 1 1 300Z" fill="none" stroke="#294457"/>
+  <rect x="64" y="66" width="64" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="60" y="166" fill="#f8fafc" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="-3">Awesome-ASIR</text>
+  <text x="64" y="223" fill="#b6c9dd" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="25" letter-spacing="0.4">Sistemas · Desarrollo · Ciberseguridad</text>
+  <g fill="none" stroke="#254b60" stroke-width="1">
+    <circle cx="1058" cy="160" r="118"/>
+    <circle cx="1058" cy="160" r="76"/>
+    <path d="M844 40h360M844 280h360M938 24v272M1178 24v272"/>
+  </g>
+  <g fill="none" stroke="#498a98" stroke-width="2">
+    <path d="m878 96 105-30 75 94 102-69M878 96l52 134 128-70 102 76M983 66l177 25M930 230l230 6"/>
+    <path d="M1058 160h148M983 66v94h75" stroke-dasharray="5 7"/>
+  </g>
+  <g fill="#123044" stroke="#5eead4" stroke-width="2">
+    <circle cx="878" cy="96" r="8"/>
+    <circle cx="983" cy="66" r="10"/>
+    <circle cx="930" cy="230" r="10"/>
+    <circle cx="1160" cy="91" r="8"/>
+    <circle cx="1160" cy="236" r="8"/>
+    <circle cx="1206" cy="160" r="5"/>
+  </g>
+  <rect x="1032" y="134" width="52" height="52" rx="14" fill="#0f172a" stroke="#5eead4" stroke-width="2"/>
+  <path d="m1052 150-10 10 10 10m12-20 10 10-10 10" fill="none" stroke="#5eead4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
