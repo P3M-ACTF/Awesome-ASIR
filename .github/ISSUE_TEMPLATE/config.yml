@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Criterios de inclusión
+    url: https://github.com/P3M-ACTF/Awesome-ASIR/blob/main/docs/CRITERIOS.md
+    about: Revisa qué entra en el catálogo antes de proponer un recurso.
+  - name: Guía de contribución
+    url: https://github.com/P3M-ACTF/Awesome-ASIR/blob/main/CONTRIBUTING.md
+    about: Formato de fichas, orden y proceso de pull request.
+  - name: Código de conducta
+    url: https://github.com/P3M-ACTF/Awesome-ASIR/blob/main/CODE_OF_CONDUCT.md
+    about: Normas de la comunidad y cómo reportar incidencias.

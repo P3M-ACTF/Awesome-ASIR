@@ -10,7 +10,7 @@ Cada categoría incluye un índice de sus fichas. Mantenerlo al añadir o retira
 
 ## Revisión periódica
 
-Revisión editorial sugerida cada trimestre y cuando llegue una issue. Este documento no configura una tarea automática.
+Revisión editorial sugerida cada trimestre y cuando llegue una issue. El workflow de CI comprueba Markdown y enlaces de forma automática; un fallo de bot (403, 406, 429) exige comprobación manual, no retirada automática.
 
 1. Abrir enlaces y distinguir redirección, registro obligatorio, bloqueo temporal y baja real.
 2. Confirmar autoría, muestra del contenido, idioma, coste y condiciones de laboratorio o examen.
@@ -21,6 +21,10 @@ Revisión editorial sugerida cada trimestre y cuando llegue una issue. Este docu
 ## Alcance de la revisión inicial — 2026-09-18
 
 Se consultaron páginas públicas y resultados del buscador de las fuentes originales para verificar identidad, orientación y acceso anunciado. La revisión no acredita haber cursado la formación ni validado todos sus ejercicios. Las etiquetas de nivel y ciclo son editoriales.
+
+Ampliación editorial **2026-09-21**: navegación entre categorías, etiquetas compactas, política de idioma explicitada y nuevas fichas en sistemas, redes, cloud y desarrollo.
+
+Ampliación de aula **2026-09-21**: páginas [apuntes](../recursos/apuntes.md) y [proyectos](../recursos/proyectos.md) por titulación (SMR–DVRV), portales de la familia en gobierno, y filtro frente a volcados de foro. Omitidos por inaccesibles: `dotoscat/ajedrez-online`, `gabrilov/proyecto`. TodoFP puede bloquear o agotar tiempo en comprobaciones automatizadas; verificar en navegador.
 
 | Observación | Tratamiento |
 | --- | --- |

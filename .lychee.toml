@@ -1,0 +1,9 @@
+# https://lychee.cli.rs/guides/configuration/
+# 403/406/429 suelen ser anti-bot o negociación; no implican enlace muerto.
+
+timeout = "30s"
+max_redirects = 10
+user_agent = "Mozilla/5.0 (compatible; Awesome-ASIR-LinkCheck/1.0)"
+accept = ["200", "204", "206", "301", "302", "307", "308", "403", "406", "429"]
+scheme = ["https", "http"]
+include_verbatim = false

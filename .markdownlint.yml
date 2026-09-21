@@ -1,0 +1,9 @@
+# Markdown lint — estilo permisivo para fichas con anclas HTML
+MD013: false
+MD033: false
+MD041: false
+MD024: false
+MD026: false
+MD034: false
+MD036: false
+MD047: true

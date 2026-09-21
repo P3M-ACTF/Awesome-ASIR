@@ -10,21 +10,33 @@ Gracias por ayudar a mantener una biblioteca pequeña y útil.
 6. Revisa enlaces relativos y anclas si renombras una ficha. Actualiza las rutas del README solo cuando sea necesario.
 7. Envía una PR con una incorporación o un conjunto pequeño y coherente de cambios.
 
+Al participar aceptas el [código de conducta](CODE_OF_CONDUCT.md).
+
+## Idioma
+
+- Redacta fichas y mensajes de contribución en **español**.
+- **Prioriza** un recurso en español si hay una opción adecuada y comparable.
+- **No descartes** referencias esenciales en inglés: etiquétalas `EN` o `ES/EN` y explica en Acceso por qué aportan valor (o si existe complemento en español).
+
 ## Formato de ficha
 
 ```markdown
 <a id="identificador-estable"></a>
+
 ### [Nombre del recurso](https://dominio.example/ruta)
 
 Descripción breve del aprendizaje y de su valor diferencial.
 
-`Ciclo: ASIR · CE` · `Área: sistemas · bastionado` · `Nivel: Intermedio`<br>
-`Idioma: EN` · `Tipo: documentación` · `Coste: Gratis` · `Fuente: Oficial`
+`Ciclo · Área · Nivel · Idioma · Tipo · Coste · Fuente`
 
 **Acceso:** requisitos y límites relevantes. **Revisión:** AAAA-MM-DD.
 ```
 
-El dominio de la plantilla es ilustrativo: no debe aparecer en una ficha publicada. Mantén estables las anclas existentes para no romper referencias. Separa los dos grupos de etiquetas con `<br>` y añade la ficha al índice local de su categoría.
+Ejemplo de línea de etiquetas:
+
+`ASIR · CE · sistemas · bastionado · Intermedio · EN · documentación · Gratis · Oficial`
+
+El dominio de la plantilla es ilustrativo: no debe aparecer en una ficha publicada. Mantén estables las anclas existentes para no romper referencias. Añade la ficha al índice local de su categoría y conserva la navegación entre categorías del encabezado y el pie.
 
 ## Cambios de acceso y retirada
 

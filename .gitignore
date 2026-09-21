@@ -2,3 +2,6 @@
 Thumbs.db
 *.tmp
 *.log
+*.url
+_tmp_*
+_clone/
