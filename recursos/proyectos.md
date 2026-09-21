@@ -2,9 +2,7 @@
 
 [← Apuntes](apuntes.md) · [Catálogo](../README.md) · [Etiquetas](../docs/ETIQUETAS.md)
 
-Proyectos de fin de ciclo y recopilaciones de centros. Sirven como ejemplos de alcance, documentación y defensa; no son plantillas oficiales ni equivalen a la evaluación de tu centro.
-
-Se omiten repositorios inaccesibles o sin descripción clara en la revisión. Ver [criterios](../docs/CRITERIOS.md).
+Proyectos de fin de ciclo y recopilaciones de centro. Criterios: [CRITERIOS](../docs/CRITERIOS.md).
 
 ## Recopilaciones de centro
 
@@ -14,7 +12,7 @@ Se omiten repositorios inaccesibles o sin descripción clara en la revisión. Ve
 | ASIR | Recopilación de proyectos (+200) | IES Gonzalo Nazareno | [IES Gonzalo Nazareno](https://www.fp-informatica.es/centros/instituto/ies-gonzalo-nazareno/161) | [Web](https://dit.gonzalonazareno.org/gestiona/proyectos/) |
 | DAM / DAW | Presentaciones de proyectos | IESCampanillas | [IES Campanillas](https://www.fp-informatica.es/centros/instituto/ies-campanillas/128) | [GitHub](https://github.com/IESCampanillas/presentaciones-proyectos-dam2-daw2-2019) |
 
-## Proyectos individuales (selección)
+## Proyectos individuales
 
 | Titulación | Proyecto | Autor | Centro | Enlace |
 | --- | --- | --- | --- | --- |
@@ -30,17 +28,12 @@ Se omiten repositorios inaccesibles o sin descripción clara en la revisión. Ve
 | DAW | Seguridad doméstica / domótica (Artika) | arjonatorres | — | [GitHub](https://github.com/arjonatorres/artika) |
 | DAW | Bio de artistas y personajes (The Artchive) | ies-donana | [IES Doñana](https://www.fp-informatica.es/centros/instituto/ies-donana/48) | [GitHub](https://github.com/iesdonana/the-artchive) |
 
-## Omitidos en esta revisión
+## Omitidos
 
 | Recurso | Motivo |
 | --- | --- |
 | `dotoscat/ajedrez-online` | Repositorio inaccesible (2026-09-21). |
 | `gabrilov/proyecto` | Repositorio inaccesible (2026-09-21). |
-
-## Notas
-
-- Estructura inspirada en [fp-informatica/material-formativo](https://github.com/fp-informatica/material-formativo).
-- **Revisión de esta página:** 2026-09-21.
 
 ---
 

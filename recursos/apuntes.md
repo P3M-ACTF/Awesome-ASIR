@@ -1,12 +1,10 @@
-# Apuntes y material de aula
+# Apuntes
 
 [← Catálogo](../README.md) · [Etiquetas](../docs/ETIQUETAS.md) · [Proyectos →](proyectos.md)
 
-Material docente público organizado por **titulación**: apuntes de módulo, temarios y prácticas con autoría identificable. Complementa el [catálogo técnico](../README.md#categorias); no sustituye la documentación oficial ni el currículo autonómico.
+Material docente público por titulación. Criterios de inclusión: [CRITERIOS](../docs/CRITERIOS.md).
 
-Se excluyen volcados RAR de foros, temarios sin licencia clara y repositorios centrados en exámenes resueltos. Ver [criterios](../docs/CRITERIOS.md).
-
-Navegación rápida: [SMR](#smr) · [ASIR](#asir) · [DAM](#dam) · [DAW](#daw) · [CETI](#ceti) · [IABD](#iabd) · [DVRV](#dvrv) · [ITEL](#itel) · [STI](#sti)
+[SMR](#smr) · [ASIR](#asir) · [DAM](#dam) · [DAW](#daw) · [CETI](#ceti) · [IABD](#iabd) · [DVRV](#dvrv) · [ITEL](#itel) · [STI](#sti)
 
 ---
 
@@ -29,7 +27,7 @@ Navegación rápida: [SMR](#smr) · [ASIR](#asir) · [DAM](#dam) · [DAW](#daw) 
 | --- | --- | --- | --- |
 | Implantación de sistemas operativos | Materiales ASIR-ISO | aberlanas | [GitHub](https://github.com/aberlanas/ASIR-ISO) |
 | Actividades / ejercicios | Libro de actividades | dvarrui | [GitHub](https://github.com/dvarrui/libro-de-actividades) |
-| Servicios, despliegue y bases de datos | Materiales docentes de FP | José Juan Sánchez | [Ficha en catálogo](desarrollo.md#jose-juan-sanchez) |
+| Servicios, despliegue y bases de datos | Materiales docentes de FP | José Juan Sánchez | [Ficha](desarrollo.md#jose-juan-sanchez) |
 
 ---
 
@@ -56,7 +54,7 @@ Navegación rápida: [SMR](#smr) · [ASIR](#asir) · [DAM](#dam) · [DAW](#daw) 
 | Apuntes generales | ApuntesDAW | Ortisella | [GitHub](https://github.com/Ortisella/ApuntesDAW) |
 | Despliegue de aplicaciones web | Apuntes DAW | Kibrands | [GitHub](https://github.com/Kibrands/ApuntesDaw) |
 | Despliegue de aplicaciones web | Apuntes DAW2 | jamj2000 | [GitHub](https://github.com/jamj2000/DAW2-DAW-Apuntes) |
-| Servicios, despliegue y bases de datos | Materiales docentes de FP | José Juan Sánchez | [Ficha en catálogo](desarrollo.md#jose-juan-sanchez) |
+| Servicios, despliegue y bases de datos | Materiales docentes de FP | José Juan Sánchez | [Ficha](desarrollo.md#jose-juan-sanchez) |
 
 ---
 
@@ -71,7 +69,7 @@ Navegación rápida: [SMR](#smr) · [ASIR](#asir) · [DAM](#dam) · [DAW](#daw) 
 | Análisis forense informático | Materiales del módulo | jayanezj | [GitHub](https://github.com/jayanezj/ceti-analisis-forense-informatico) |
 | Hacking ético | Materiales del módulo | jayanezj | [GitHub](https://github.com/jayanezj/ceti-hacking-etico) |
 | Puesta en producción segura | Materiales del módulo | jayanezj | [GitHub](https://github.com/jayanezj/ceti-puesta-produccion-segura) |
-| Currículo oficial | Real Decreto del CE | BOE | [Ficha en catálogo](gobierno.md#boe-ce) |
+| Currículo oficial | Real Decreto del CE | BOE | [Ficha](gobierno.md#boe-ce) |
 
 ---
 
@@ -89,9 +87,7 @@ Navegación rápida: [SMR](#smr) · [ASIR](#asir) · [DAM](#dam) · [DAW](#daw) 
 
 ## DVRV · Desarrollo de Videojuegos y Realidad Virtual
 
-No se incluyen repositorios de apuntes públicos con autoría y licencia claras en la revisión de **2026-09-21**. Si conoces material docente abierto, propónlo en una [issue](https://github.com/P3M-ACTF/Awesome-ASIR/issues) o PR.
-
-Consulta la [oferta educativa de la familia](https://www.fp-informatica.es/oferta-educativa/) y [TodoFP](gobierno.md#todofp) para centros y normativa.
+Sin apuntes públicos curados. Propuestas: [issue](https://github.com/P3M-ACTF/Awesome-ASIR/issues).
 
 ---
 
@@ -99,16 +95,14 @@ Consulta la [oferta educativa de la familia](https://www.fp-informatica.es/ofert
 
 ## ITEL · Instalaciones de Telecomunicaciones (GM)
 
-Título de **Electricidad y Electrónica**, no de Informática y Comunicaciones. Módulos típicos: ICT en viviendas, redes de datos y telefonía, radiocomunicaciones, CCTV, megafonía, domótica y electrónica aplicada.
+Electricidad y Electrónica.
 
 | Módulo o alcance | Recurso | Autor | Enlace |
 | --- | --- | --- | --- |
-| Currículo oficial (título) | Real Decreto 1632/2009 | BOE | [Ficha en catálogo](gobierno.md#boe-itel) |
-| ICT y normativa | Reglamento ICT y procedimientos | BOE / Ministerio | [Telecomunicaciones](telecomunicaciones.md#boe-ict) |
+| Currículo oficial | Real Decreto 1632/2009 | BOE | [Ficha](gobierno.md#boe-itel) |
+| ICT y normativa | Reglamento ICT | BOE / Ministerio | [Telecomunicaciones](telecomunicaciones.md#boe-ict) |
 
-No se incluyen repositorios de apuntes públicos de centro con autoría y licencia claras en la revisión de **2026-09-21**. Si conoces material docente abierto de ITEL, propónlo en una [issue](https://github.com/P3M-ACTF/Awesome-ASIR/issues) o PR.
-
-Catálogo técnico: [telecomunicaciones](telecomunicaciones.md). Orientación general: [TodoFP](gobierno.md#todofp).
+Sin apuntes de centro curados. Propuestas: [issue](https://github.com/P3M-ACTF/Awesome-ASIR/issues).
 
 ---
 
@@ -116,23 +110,15 @@ Catálogo técnico: [telecomunicaciones](telecomunicaciones.md). Orientación ge
 
 ## STI · Sistemas de Telecomunicaciones e Informáticos (GS)
 
-Título de **Electricidad y Electrónica**. Módulos típicos: configuración y técnicas de ICT, elementos de telecomunicaciones, sistemas y redes locales, redes telemáticas, radiocomunicaciones, telefonía, producción audiovisual, hogar digital y gestión de proyectos.
+Electricidad y Electrónica.
 
 | Módulo o alcance | Recurso | Autor | Enlace |
 | --- | --- | --- | --- |
-| Currículo oficial (título) | Real Decreto 883/2011 | BOE | [Ficha en catálogo](gobierno.md#boe-sti) |
-| ICT, fibra, radio y telefonía | Catálogo técnico de telecomunicaciones | Awesome-ASIR | [Telecomunicaciones](telecomunicaciones.md) |
-| Redes locales y protocolos | NetAcad, Wireshark y cruces | Catálogo | [Redes](redes.md) |
+| Currículo oficial | Real Decreto 883/2011 | BOE | [Ficha](gobierno.md#boe-sti) |
+| ICT, fibra, radio y telefonía | Catálogo técnico | Awesome-ASIR | [Telecomunicaciones](telecomunicaciones.md) |
+| Redes locales y protocolos | NetAcad, Wireshark | Catálogo | [Redes](redes.md) |
 
-No se incluyen repositorios de apuntes públicos de centro con autoría y licencia claras en la revisión de **2026-09-21** (los apuntes universitarios de teleco no sustituyen el temario FP). Si conoces material docente abierto de STI, propónlo en una [issue](https://github.com/P3M-ACTF/Awesome-ASIR/issues) o PR.
-
----
-
-## Notas
-
-- Las tablas priorizan repositorios y sitios con autor visible. Comprobar versión del curso, licencia del repo y vigencia de las prácticas antes de usarlas en evaluación.
-- Inspirado en la estructura de [fp-informatica/material-formativo](https://github.com/fp-informatica/material-formativo), con filtro editorial propio.
-- **Revisión de esta página:** 2026-09-21.
+Sin apuntes de centro curados. Propuestas: [issue](https://github.com/P3M-ACTF/Awesome-ASIR/issues).
 
 ---
 
