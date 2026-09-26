@@ -9,6 +9,8 @@
 
 Catálogo curado para **Informática y Comunicaciones** (SMR, ASIR, DAM, DAW, CETI, IABD, DVRV) y telecomunicaciones de **Electricidad y Electrónica** (ITEL, STI). Recursos en español cuando hay opción comparable; el inglés se indica en cada ficha.
 
+Este repositorio forma parte de [**Tecnoteca**](https://github.com/users/P3M-ACTF/projects/3), el proyecto paraguas que organiza ambos recursos. **Awesome-ASIR** reúne un catálogo curado de recursos, plataformas, proyectos y referencias externas para formación técnica; para material de consulta y aprendizaje, documentación, apuntes, guías, chuletas y recursos propios, consulta [Biblioteca](https://github.com/P3M-ACTF/Biblioteca).
+
 [Categorías](#categorias) · [Titulaciones](#titulaciones) · [Itinerarios](#itinerarios) · [Etiquetas](docs/ETIQUETAS.md) · [Contribuir](#contribuir)
 
 ---
