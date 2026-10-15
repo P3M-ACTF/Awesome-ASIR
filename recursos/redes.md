@@ -6,6 +6,16 @@ Protocolos, análisis de tráfico y protección de redes.
 
 ## Recursos
 
+<a id="apnic-academy"></a>
+
+### [APNIC Academy](https://academy.apnic.net/)
+
+Cursos de IPv6, enrutamiento y operación de redes, del registro regional de Asia-Pacífico.
+
+`ASIR · CE · redes · Inicial–Intermedio · EN · teoría · lab · Gratis · Oficial`
+
+**Acceso:** registro gratuito; material en inglés. **Revisión:** 2026-10-15.
+
 <a id="cisco-netacad"></a>
 
 ### [Cisco Networking Academy — NetAcad](https://www.netacad.com/)
@@ -45,6 +55,16 @@ Referencia de métodos, cabeceras y códigos HTTP.
 `ASIR · DAW · DAM · CE · redes · seguridad-web · desarrollo · Inicial–Intermedio · ES/EN · documentación · Gratis · Oficial`
 
 **Revisión:** 2026-09-21.
+
+<a id="mapa-protocolos"></a>
+
+### [Mapa de protocolos — Biblioteca](https://github.com/P3M-ACTF/Biblioteca/blob/dev/Redes/mapa-protocolos/README.md)
+
+Lista propia de las siete capas OSI y de las familias de protocolos, con un grafo Mermaid por familia. Material de Biblioteca, no un curso externo.
+
+`ASIR · SMR · CE · redes · Inicial · ES · teoría · Gratis · Comunidad`
+
+**Acceso:** el HTML se abre en el navegador desde el repositorio. La guía está en la [wiki](https://github.com/P3M-ACTF/Biblioteca/wiki/Mapa-de-protocolos). **Revisión:** 2026-10-15.
 
 <a id="practical-networking"></a>
 

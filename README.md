@@ -22,7 +22,7 @@ Este repositorio forma parte de [**Tecnoteca**](https://github.com/users/P3M-ACT
 | Área | Fichas |
 | --- | ---: |
 | [Sistemas y bastionado](recursos/sistemas.md) | 10 |
-| [Redes e Internet](recursos/redes.md) | 7 |
+| [Redes e Internet](recursos/redes.md) | 9 |
 | [Telecomunicaciones](recursos/telecomunicaciones.md) | 6 |
 | [Cloud y despliegue](recursos/cloud.md) | 8 |
 | [Desarrollo y bases de datos](recursos/desarrollo.md) | 7 |
