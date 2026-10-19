@@ -58,13 +58,13 @@ Referencia de métodos, cabeceras y códigos HTTP.
 
 <a id="mapa-protocolos"></a>
 
-### [Mapa de protocolos — Biblioteca](https://github.com/P3M-ACTF/Biblioteca/blob/main/Redes/mapa-protocolos/README.md)
+### [Mapa de protocolos — Biblioteca](https://p3m-actf.github.io/Biblioteca/Redes/mapa-protocolos/)
 
 Lista propia de las siete capas OSI y de las familias de protocolos, con un grafo Mermaid por familia. Material de Biblioteca, no un curso externo.
 
 `ASIR · SMR · CE · redes · Inicial · ES · teoría · Gratis · Comunidad`
 
-**Acceso:** descarga el HTML del repositorio y ábrelo en el navegador. La guía está en la [wiki](https://github.com/P3M-ACTF/Biblioteca/wiki/Mapa-de-protocolos). **Revisión:** 2026-10-15.
+**Acceso:** abre el mapa en el navegador. Consulta el [código fuente](https://github.com/P3M-ACTF/Biblioteca/blob/main/Redes/mapa-protocolos/README.md) o la guía en la [wiki](https://github.com/P3M-ACTF/Biblioteca/wiki/Mapa-de-protocolos). **Revisión:** 2026-10-19.
 
 <a id="practical-networking"></a>
 
