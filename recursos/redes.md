@@ -60,7 +60,7 @@ Referencia de métodos, cabeceras y códigos HTTP.
 
 ### [Mapa de protocolos — Biblioteca](https://p3m-actf.github.io/Biblioteca/Redes/mapa-protocolos/)
 
-Lista propia de las siete capas OSI y de las familias de protocolos, con un grafo Mermaid por familia. Material de Biblioteca, no un curso externo.
+Póster interactivo de las siete capas OSI y las familias de protocolos, con búsqueda, zoom y un grafo Mermaid por familia. Material de Biblioteca, no un curso externo.
 
 `ASIR · SMR · CE · redes · Inicial · ES · teoría · Gratis · Comunidad`
 
